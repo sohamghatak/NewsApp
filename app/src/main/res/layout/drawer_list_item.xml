@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    style="@style/NewsTextStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/activatedBackgroundIndicator"
+    android:gravity="center_vertical"
+    android:minHeight="@dimen/drawer_list_item_height"
+    android:paddingLeft="@dimen/drawer_list_item_padding"
+    android:paddingRight="@dimen/drawer_list_item_padding"
+    android:textColor="@color/drawerTextColor" />

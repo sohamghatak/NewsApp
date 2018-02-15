@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Navigation Drawer List view background color-->
+    <color name="drawerBackground">#F5F5F5</color>
+    <!--Drawer List view text color-->
+    <color name="drawerTextColor">#37474F</color>
+    <!--Title text color-->
+    <color name="title_text_color">#311B92</color>
+    <!--Section & Date text color-->
+    <color name="section_text_color">#424242</color>
+    <!--Transparent Color-->
+    <color name="transparent_text_color">#00FFFFFF</color>
+</resources>

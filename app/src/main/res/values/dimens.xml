@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Main Layout padding-->
+    <dimen name="padding_main_layout">12dp</dimen>
+    <!--List View passing-->
+    <dimen name="padding_list_view">6dp</dimen>
+    <!--Title text size -->
+    <dimen name="title_text_size">24sp</dimen>
+    <!--Section text size-->
+    <dimen name="section_text_size">16sp</dimen>
+    <!--Navigation Drawer width-->
+    <dimen name="drawer_width">240dp</dimen>
+    <!--Drawer list item padding-->
+    <dimen name="drawer_list_item_padding">16dp</dimen>
+    <!--Drawer list item height-->
+    <dimen name="drawer_list_item_height">48dp</dimen>
+    <!--Zero dp height-->
+    <dimen name="zero_dp_height">0dp</dimen>
+</resources>

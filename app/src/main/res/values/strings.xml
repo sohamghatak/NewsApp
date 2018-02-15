@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!--Settings Menu-->
+    <string name="settings_menu_item">Settings</string>
+    <!--Settings Activity title-->
+    <string name="settings_title">News Story Settings</string>
+    <string-array name="news_titles">
+        <item>World</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Entertainment</item>
+        <item>Sport</item>
+        <item>Science</item>
+        <item>Health</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <!--No Internet Connection-->
+    <string name="no_connection">There is no internet connection. Please switch internet on and try again.</string>
+
+    <!--Custom list view names-->
+    <string name="title_text_view">Title</string>
+    <string name="section_text_view">Section</string>
+    <string name="date_text_view">Date</string>
+
+    <!--Default No Author text-->
+    <string name="no_author">No Author</string>
+</resources>
